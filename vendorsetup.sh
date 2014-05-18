@@ -1,3 +1,2 @@
-add_lunch_combo full_mint-eng
-add_lunch_combo omni_mint-eng
-add_lunch_combo omni_mint-userdebug
+add_lunch_combo slim_mint-eng
+add_lunch_combo slim_mint-userdebug
