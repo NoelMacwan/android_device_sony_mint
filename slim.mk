@@ -30,7 +30,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base_telephony.mk)
 $(call inherit-product, vendor/slim/config/common.mk)
 
 # Inherit from hardware-specific part of the product configuration
-$(call inherit-product, device/sony/mint/device.mk)
+$(call inherit-product, device/sony/mint/mint.mk)
 
 PRODUCT_NAME := slim_mint
 PRODUCT_DEVICE := mint
